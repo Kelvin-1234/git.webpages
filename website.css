@@ -1,0 +1,113 @@
+body{
+	background-color: blue;
+	margin-bottom: 40px;
+	margin-right: 150px;
+	margin-left:150px;
+}
+.row{
+	margin:0 auto;
+	border: 1px solid #3cd442ba;
+	border-radius: 3px;
+	background-color: #3cd442ba;
+	height:100px;
+	text-align: center;
+	padding:20px;
+}
+.container{
+	background-color:#ff0000c4;
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+	word-spacing:5px;
+	letter-spacing:4px;
+	font-family: sans-serif;
+	display: flex;
+	justify-content:space-between;
+	font-size: 13px;
+	border:1px solid green;
+
+}
+  ul{
+  	 list-style: none;
+  }
+
+	.container ul{
+		height: 20px;
+		width: 100px;
+		margin:0px;
+		border-right: 1px solid red;
+
+}
+.tree{
+	background-color:whitesmoke;
+	float: left;
+	width: 25%;
+	margin:0px auto;
+	padding: 10px;
+}
+.me{
+	border:20%;
+	display: inline-block;
+	margin-top:-18px;
+	border:5px solid chocolate;
+	width: 100px;
+	height: 100px;
+	border-radius:5px;
+	margin-left: 50px;
+}
+.left{
+	
+	background-color: grey;
+	display:block;
+	width: 30%;
+	height: 90px;
+	padding: 2px;
+	float:left;
+	margin-top:-10px;
+	margin-left: 2px;
+
+	
+	
+}
+	.more{
+		margin-top: 10px;
+		margin-left: 10px;
+		margin-right: 10px;
+		margin-bottom: 10px;
+		padding: 2px;
+	}
+
+
+.right{
+	float: right
+	width: 80%;
+	padding:10px;
+	background-color:white;
+}
+
+.image{background-color: grey;
+	border:5px solid red;
+	display: inline-block;
+	margin-top:10px;
+	margin-left: 100px;
+	height: 100px;
+	width: 100px;
+	border-radius: 5px;
+}
+.imag{
+	background-color: grey;
+	border:5px solid chocolate;
+	margin-top:-10px;
+	margin-left: 500px;
+	width: 100px;
+	height: 100px;
+	border-radius: 5px;
+
+}
+.footer{
+	border:10px;
+	margin-top: -10px;
+	margin-left: 280px;
+	background-color: grey;
+	width: 759px;
+}
